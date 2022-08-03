@@ -17,6 +17,7 @@ My contributions were:
 - Moved the SPA navigation to the Nav bar where it belongs
 - Removed the disabled button and the search bar from the Nav Bar
 - Added pictures and styles for visual appeal
+- Renamed "Sign In" page to "How it Works" because sign-in pages aren't usually this wordy
 - Added sub-links to the Home page that do not trigger a reload
 
 
