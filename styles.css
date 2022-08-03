@@ -1,0 +1,22 @@
+.sublinks {
+  margin: 10px 0px 30px 50px;
+}
+
+.home-sublink {
+  font-size: 1.2em;
+  margin-right: 15px;
+}
+
+.home-sublink:link,
+.home-sublink:visited {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-sublink:hover,
+.home-sublink:active {
+  font-size: 1.3em;
+  text-decoration: none;
+  background-color: #f2f2f2;
+
+  color: rgba(0, 0, 0, 0.9);
+}
